@@ -1,4 +1,4 @@
-import React, {  } from "react";
+import React, { useState } from "react";
 import {
   BrowserRouter as Router,
   Switch,
@@ -54,31 +54,17 @@ function Home() {
               />
             </center>
             <br />
-            <center> What's new in Beta 3: </center>
+            <center> What's new in Beta 4: </center>
             <br />
-            - Aquean
+            - Vulcan
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- An underwater themed world
+            &nbsp;&nbsp;&nbsp;&nbsp;- A very hot and volcanic world
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- 2 Story Batteries
+            &nbsp;&nbsp;&nbsp;&nbsp;- 1 Story Batteries
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- 2 Boss fights
+            &nbsp;&nbsp;&nbsp;&nbsp;- 1 Boss fight
             <br />
-            <br />
-            - Arcadia
-            <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- Arcade-themed world
-            <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- 5 Arcade machines
-            <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Machines take you
-            to a level in other games
-            <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;- A boss with many different stages
-            <br />
-            - New main menu
-            <br />
-            - New Warp Hub backgrounds
+            &nbsp;&nbsp;&nbsp;&nbsp;- Large story implications
             <br />- Various bug fixes
           </div>
         </span>
